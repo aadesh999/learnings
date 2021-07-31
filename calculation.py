@@ -1,11 +1,7 @@
-a = 5 
+a = 5
 b = 7
 aad = "AAdesh"
 c = a + b
-print("Addition = ",c)
+print("Addition = ", c)
 d = a * b
-print("Multuplication = ",d)
-
-
-
-
+print("Multuplication = ", d)
